@@ -5,7 +5,7 @@
   <repository>
     <id>Small2Space</id>
     <name>Small2Space</name>
-    <url>https://raw.github.com/Small2Space/mvn-repo/master</url>
+    <url>https://raw.githubusercontent.com/Small2Space/mvn-repo/main</url>
   </repository>
 </repositories>
 ```
